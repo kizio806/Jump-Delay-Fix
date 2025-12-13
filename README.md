@@ -1,4 +1,7 @@
-<h1 style="text-align: center;">NoJumpDelay</h1>
+<p align="center">
+  <img src="logo.png" alt="Logo"/>
+</p>
+
 
 <p align="center">
   <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.20+-blue.svg" alt="Minecraft Version"/></a>
