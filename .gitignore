@@ -28,14 +28,6 @@ replay_pid*
 build/
 out/
 
-# Gradle Wrapper
-gradle-wrapper.jar
-gradle-wrapper.properties
-
-# Gradlew scripts
-gradlew
-gradlew.bat
-
 # IntelliJ IDEA / JetBrains
 .idea/
 *.iml
