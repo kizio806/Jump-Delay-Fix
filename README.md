@@ -72,7 +72,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## Author
 
-**Your Name / GitHub username**  
+**kizio806**  
 [GitHub Profile](https://github.com/kizio806)
 
 ---
