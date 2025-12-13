@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "nojumpdelay",
+  "version": "1.0.0",
+  "name": "No Jump Delay",
+  "description": "Removes jump cooldown when holding jump key",
+  "authors": ["Ty"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["pl.nojumpdelay.NoJumpDelayClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.1",
+    "fabric": "*"
+  }
+}
