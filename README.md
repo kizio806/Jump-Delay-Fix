@@ -1,9 +1,11 @@
-# NoJumpDelay
+<h1 style="text-align: center;">NoJumpDelay</h1>
 
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20+-blue.svg)](https://www.minecraft.net/)
-[![Fabric API](https://img.shields.io/badge/Fabric-API-green.svg)](https://fabricmc.net/)
-[![Java Version](https://img.shields.io/badge/Java-21-brightgreen.svg)](https://www.java.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<p align="center">
+  <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.20+-blue.svg" alt="Minecraft Version"/></a>
+  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-API-green.svg" alt="Fabric API"/></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-21-brightgreen.svg" alt="Java Version"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"/></a>
+</p>
 
 ---
 
