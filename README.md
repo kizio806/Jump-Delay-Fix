@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.20+-blue.svg" alt="Minecraft Version"/></a>
-  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-API-green.svg" alt="Fabric API"/></a>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-21-brightgreen.svg" alt="Java Version"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"/></a>
-</p>
+<h1 align="center">Jump Delay Fix</h1>
 
 ---
 
