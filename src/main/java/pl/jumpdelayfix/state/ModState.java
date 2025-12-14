@@ -1,4 +1,4 @@
-package pl.nojumpdelay.state;
+package pl.jumpdelayfix.state;
 
 public class ModState {
     private static boolean enabled = true;

@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "nojumpdelay",
+  "id": "jumpdelayfix",
   "version": "1.0.0",
-  "name": "No Jump Delay",
+  "name": "Jump Delay Fix",
   "description": "Removes jump cooldown when holding jump key",
-  "authors": ["Ty"],
+  "authors": ["kizio"],
   "environment": "client",
   "entrypoints": {
-    "client": ["pl.nojumpdelay.NoJumpDelayClient"]
+    "client": ["pl.jumpdelayfix.JumpDelayFixClient"]
   },
   "depends": {
     "fabricloader": ">=0.15.0",

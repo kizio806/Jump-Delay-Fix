@@ -3,7 +3,7 @@ plugins {
     id 'maven-publish'
 }
 
-group = 'pl.nojumpdelay'
+group = 'pl.jumpdelayfix'
 version = '1.0.0'
 
 repositories {

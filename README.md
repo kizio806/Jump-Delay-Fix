@@ -9,7 +9,7 @@
 
 ## Overview
 
-**NoJumpDelay** is a small **Minecraft client-side mod** (Fabric) that removes the built-in jump delay, allowing instant consecutive jumps.  
+**JumpDelayFix** is a small **Minecraft client-side mod** (Fabric) that removes the built-in jump delay, allowing instant consecutive jumps.  
 This mod improves movement responsiveness, especially in **PvP** and intense gameplay scenarios.  
 It includes a **simple on/off toggle** for easy control.
 
@@ -36,7 +36,7 @@ It includes a **simple on/off toggle** for easy control.
 
 ### Steps
 
-1. Download the latest `NoJumpDelay-X.X.X.jar` from the [Releases](https://github.com/kizio806/No-Jump-Delay/releases) page.
+1. Download the latest `JumpDelayFix-X.X.X.jar` from the [Releases](https://github.com/kizio806/No-Jump-Delay/releases) page.
 2. Place the `.jar` file into your `mods` folder.
 3. Start Minecraft with Fabric Loader.
 4. Use the toggle key to enable or disable the mod.

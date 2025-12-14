@@ -45,5 +45,5 @@ jobs:
       - name: Upload Build Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: NoJumpDelay-Artifacts
+          name: JumpDelayFix-Artifacts
           path: build/libs/**/*.jar

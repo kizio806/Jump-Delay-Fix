@@ -1,8 +1,8 @@
-package pl.nojumpdelay.feature;
+package pl.jumpdelayfix.feature;
 
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.minecraft.client.network.ClientPlayerEntity;
-import pl.nojumpdelay.state.ModState;
+import pl.jumpdelayfix.state.ModState;
 
 public class JumpHandler {
 

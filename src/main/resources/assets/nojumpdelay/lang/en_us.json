@@ -1,4 +1,4 @@
 {
-  "key.nojumpdelay.toggle": "Toggle No Jump Delay",
-  "category.nojumpdelay": "No Jump Delay"
+  "key.jumpdelayfix.toggle": "Toggle Jump Delay Fix",
+  "category.jumpdelayfix": "Jump Delay Fix"
 }

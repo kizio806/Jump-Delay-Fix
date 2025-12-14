@@ -1,13 +1,14 @@
-package pl.nojumpdelay.input;
+package pl.jumpdelayfix.input;
 
-import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
+import org.lwjgl.glfw.GLFW;
+
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
+import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
 import net.minecraft.client.option.KeyBinding;
 import net.minecraft.client.util.InputUtil;
 import net.minecraft.text.Text;
 import net.minecraft.util.Formatting;
-import org.lwjgl.glfw.GLFW;
-import pl.nojumpdelay.state.ModState;
+import pl.jumpdelayfix.state.ModState;
 
 public class Keybinds {
 
@@ -16,10 +17,10 @@ public class Keybinds {
     public static void register() {
         toggleKey = KeyBindingHelper.registerKeyBinding(
                 new KeyBinding(
-                        "key.nojumpdelay.toggle",
+                        "key.jumpdelayfix.toggle",
                         InputUtil.Type.KEYSYM,
                         GLFW.GLFW_KEY_J,
-                        "category.nojumpdelay"
+                        "category.jumpdelayfix"
                 )
         );
 
@@ -29,7 +30,7 @@ public class Keybinds {
 
                 if (client.player != null) {
                     client.player.sendMessage(
-                            Text.literal("NoJumpDelay: ")
+                            Text.literal("JumpDelayFix: ")
                                     .append(
                                             Text.literal(ModState.isEnabled() ? "ON" : "OFF")
                                                     .formatted(ModState.isEnabled()
